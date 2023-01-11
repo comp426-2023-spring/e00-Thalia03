@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE= happy dog car torta a1b2c3
 
 echo ${EXAMCODE}
